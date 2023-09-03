@@ -1,2 +1,2 @@
-# code-refactor-one
+# horiseon-code-refactor
 First Challenge Assignment
