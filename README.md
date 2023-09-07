@@ -17,7 +17,7 @@ N/A
 The site works the same as before. Appearance and functionality has been maintained.
 
 
-![Screenshot](horiseon-code-refactor\assets\images\Screenshot.png)
+![Screenshot](image.png)
 =======
 
 ## Credits
