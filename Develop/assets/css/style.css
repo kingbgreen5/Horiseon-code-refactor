@@ -51,7 +51,7 @@ a {
 }
 
 
-
+/*Main Large background image*/
 .hero {
     height: 800px;
     width: 100%;
@@ -61,11 +61,11 @@ a {
     background-position: center;
 }
 
+/*Defines float left and right*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
 .float-right {
     float: right;
     margin-left: 25px;
@@ -103,9 +103,6 @@ background-color: #0072bb;
 }
 
 
-
-
-
 /*ASIDE*/
 
 .benefits {
@@ -134,11 +131,6 @@ background-color: #0072bb;
     margin: 10px auto;
     max-width: 150px;
 }
-
-
-
-
-
 
 
 
