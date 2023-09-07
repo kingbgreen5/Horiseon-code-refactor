@@ -16,8 +16,8 @@ The site works the same as before. Appearance and functionality has been maintai
 
 
 ## Credits
+All code was taken from the initial assignment code provided.
 
-N/A 
 
 ## License
 MIT
