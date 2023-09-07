@@ -16,7 +16,10 @@ N/A
 
 The site works the same as before. Appearance and functionality has been maintained.
 
-![Screenshot of website landing page](image.png)
+
+![Screenshot](image.png)
+=======
+
 ## Credits
 All code was taken from the initial assignment code provided.
 
