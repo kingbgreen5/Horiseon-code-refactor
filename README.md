@@ -14,7 +14,7 @@ N/A
 
 The site works the same as before. Appearance and functionality has been maintained.
 
-
+![Alt text](image.png)
 ## Credits
 All code was taken from the initial assignment code provided.
 
